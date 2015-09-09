@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/djungowski/collaborative-stickies/issues"
   },
-  "homepage": "https://github.com/djungowski/collaborative-stickies"
+  "homepage": "https://github.com/djungowski/collaborative-stickies",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jquery-ui": "^1.10.5"
+  }
 }
