@@ -19,6 +19,7 @@ $(window).on('load', function() {
 		newStickyNote.css('top', y);
 		$(document.body).append(newStickyNote);
 		newStickyNoteTextArea.focus();
+		newStickyNote.draggable();
 	});
 
 });
