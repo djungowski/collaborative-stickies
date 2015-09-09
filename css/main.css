@@ -3,6 +3,7 @@
 	padding: 1em;
 	background: #ffb903;
 	position: absolute;
+	cursor: move;
 }
 
 .sticky-note textarea {
