@@ -1,0 +1,6 @@
+.sticky-note {
+	border: 1px solid #000;
+	padding: 1em;
+	background: #ffb903;
+	position: absolute;
+}
