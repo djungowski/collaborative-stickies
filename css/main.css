@@ -4,3 +4,9 @@
 	background: #ffb903;
 	position: absolute;
 }
+
+.sticky-note textarea {
+	background: #ffb903;
+	border: none;
+	outline: none !important;
+}
