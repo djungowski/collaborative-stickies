@@ -20,6 +20,7 @@ $(window).on('load', function() {
 		$(document.body).append(newStickyNote);
 		newStickyNoteTextArea.focus();
 		newStickyNote.draggable();
+		newStickyNote.resizable();
 	});
 
 });
