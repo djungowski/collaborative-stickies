@@ -1,5 +1,7 @@
 .sticky-note {
-	border: 1px solid #000;
+	width: 17em;
+	height: 7em;
+	border: none;
 	padding: 1em;
 	background: #ffb903;
 	position: absolute !important;
@@ -13,4 +15,5 @@
 	height: 100%;
 	outline: none !important;
 	resize: none;
+	font-size: 1.4em;
 }
